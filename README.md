@@ -1,6 +1,6 @@
 # Calculadora
 
-Projeto de uma calculadora simples
+Projeto de uma calculadora
 
 ## 🚀 Tecnologias:
 
